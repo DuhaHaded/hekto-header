@@ -18,10 +18,11 @@ a{
   flex-wrap: wrap;
 }
 .container {
-  width: 80%;
+  width: 70%;
   margin: auto;
   max-width: 1400px;
 }
+/*header start*/
 
 .header .container {
   display: flex;
@@ -65,6 +66,7 @@ ul {
 
   background-color: #fb2e86;
 }
+/*header end*/
 /*start footer*/
 .footer{
   background-color: #EEEFFB;
